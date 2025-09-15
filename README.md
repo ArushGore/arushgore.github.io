@@ -1,2 +1,2 @@
-# arushgore.github.io
+# [arushgore.github.io](https://arushgore.github.io/)
 Arush's homepage 
